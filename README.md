@@ -1,2 +1,2 @@
 # Mybrary
-Its a monoose node js sample
+Its a mongoose node js sample
